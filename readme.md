@@ -21,7 +21,7 @@ cd app
 ```
 client-server port 3000
 npm install - for install all dependencies
-npm install bower
+npm install bower - for additional visual files
 npm start - live project
 ```
 
