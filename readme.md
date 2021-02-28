@@ -1,6 +1,12 @@
 <!-- Title --> 
 # Dropbox Clone
 
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=70% height=70% src="page.png" alt="Project logo"></a>
+</p>
+
+
 <!-- Who made it --> 
 ##### Tutorial by Hcode Treinamentos
 <!-- About the project --> 
@@ -19,17 +25,19 @@ cd app
 ```
 
 ```
-client-server port 3000
 npm install - for install all dependencies
 npm install bower - for additional visual files
-npm start - live project
+npm start - live project client-server port 3000
 ```
 
 <!-- Features Used in --> 
 ## Features Used <a name = "about"></a>
   * Express Generator
-  * Formidable
+  * [Formidable Form] (https://www.npmjs.com/package/formidable)
+    * A Node.js module for parsing form data, especially file uploads.]
   * Firebase Realtime Application
+    * Upload, Remove, Rename files
+  * Bower Components for visual css
 
 [Check Live]()
 
