@@ -15,7 +15,7 @@ In this project we make a Dropbox Clone with Firebase Real Time
 
 ### Folders
 
-first enter in app folder
+
 
 ```
 git clone https://github.com/joaogalvesluiz/dropbox-clone.git
@@ -30,12 +30,13 @@ npm start - live project client-server port 3000
 ```
 
 <!-- Features Used in --> 
-## Features Used <a name = "about"></a>
+## 📖 Features Used <a name = "about"></a>
   * Express Generator
   * [Formidable Form](https://www.npmjs.com/package/formidable)
     * A Node.js module for parsing form data, especially file uploads.]
   * Firebase Realtime Application
-    * Upload, Remove, Rename files
+    * Create Folders, Upload, Remove, Rename files
+  * Firebase Storage  
   * Bower Components for visual css
 
 #TODO Fazer o passo a passo para alguém executar o projeto na propria máquina. 
@@ -43,5 +44,5 @@ npm start - live project client-server port 3000
 
 [Check Live]()
 
-### Contact
+### 📧 Contact 
 E-mail: joaog.alvesluiz@gmail.com
