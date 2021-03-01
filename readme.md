@@ -11,21 +11,23 @@
 <!-- About the project --> 
 ## About <a name = "about"></a>
 
-In this project we make a Dropbox Clone with Firebase Real Time  
+In this project we make a Dropbox Clone and you can create folder, subfolders, upload images/videos/pdfs using Firebase to Storage for save files.  
 
-### Folders
-
-
+### How to execute
 
 ```
 git clone https://github.com/joaogalvesluiz/dropbox-clone.git
+- first install 
+cd app/public 
 
-cd app
+bower install
 ```
 
 ```
+- second install
+cd ../ to back app folder then install 
+
 npm install - for install all dependencies
-npm install bower - for additional visual files
 npm start - live project client-server port 3000
 ```
 
@@ -37,12 +39,9 @@ npm start - live project client-server port 3000
   * Firebase Realtime Application
     * Create Folders, Upload, Remove, Rename files
   * Firebase Storage  
-  * Bower Components for visual css
-
-#TODO Fazer o passo a passo para alguém executar o projeto na propria máquina. 
+  * Bower Components for Visual Css
 
 
-[Check Live]()
 
 ### 📧 Contact 
 E-mail: joaog.alvesluiz@gmail.com
